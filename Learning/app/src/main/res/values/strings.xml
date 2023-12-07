@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Learning</string>
+    <string name="text_question">Are you prepared for exam?</string>
+    <string name="text_true">True</string>
+    <string name="text_false">False</string>
+    <string-array name="string_item">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+    </string-array>
+    <string-array name="countries">
+        <item>USA</item>
+        <item>India</item>
+        <item>UK</item>
+        <item>Canada</item>
+        <item>Germany</item>
+        <item>France</item>
+        <item>Italy</item>
+    </string-array>
+</resources>

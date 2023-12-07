@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleCalculatorLab</string>
+    <string-array name="name">
+        <item>
+
+        </item>
+    </string-array>
+</resources>
